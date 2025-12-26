@@ -1,12 +1,11 @@
 # R.R.E.P.: Regras para Registros de Evolução de Projetos 
 
-Ultimamente eu comecei a gerar um formato para registar as evoluções dos
-cursos e/ou projetos que andei criando e acredito ter chegado a um ponto
-"ótimo".
+Ultimamente eu comecei a gerar um formato para registar as evoluções dos cursos
+e/ou projetos que andei criando e acredito ter chegado a um ponto "ótimo".
 
-Então, para evitar ficar repetindo o mesmo conjunto de informações em cada
-novo repositório que seguir essa linha, decidi centralizar as regras neste
-projeto e fazer referência a ele de agora em diante.
+Então, para evitar ficar repetindo o mesmo conjunto de informações em cada novo
+repositório que seguir esta linha, decidi centralizar as regras neste projeto e
+fazer referência a ele de agora em diante.
 
 ## Regras
 
@@ -21,7 +20,7 @@ E as entradas seguem as seguintes regras:
 1. **Tópico**: Registra as Seções principais de conteúdo para as quais eu devo
 seguir na **PRÓXIMA ITERAÇÃO**. No caso deste projeto, refere-se ao título de
 cada uma das páginas do tutorial, grafados exatamente como o autor os criou.
-Cada Tópico também é uma URL que aponta para o conteúdo em questão
+Cada Tópico também é uma URL que aponta para o conteúdo em questão. Exemplo(s):
    1. Se durante os estudos do dia `01/01/1901` a `página 01` for completamente
    finalizada, a tabela mostratá o seguinte:
 
@@ -31,8 +30,8 @@ Cada Tópico também é uma URL que aponta para o conteúdo em questão
 
 2. **Subtópico**: Faz um registro similar ao Tópico, mas só mostrará uma URL
 quando o assunto de uma página não for completamente exaurido. Para todos os
-outros casos, ou seja, quando ainda houver Subtópico(s) para finalizar, 
-será usado um hífen (-)
+outros casos, ou seja, quando ainda houver Subtópico(s) para finalizar, será
+usado um hífen (-). Exemplo(s):
    1. Se a `página 03` tiver os Subtópicos `sub 01`, `sub 02` e
    `sub 03` e a interação atual finalizar o `sub 01` no dia `01/01/1910`, a
    tabela mostrará o seguinte:
